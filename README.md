@@ -1,3 +1,3 @@
 # Website
 Final project for Girls Who Code
-FSDAHGWALKVNWSKV
+Javascript Portion
